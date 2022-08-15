@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url(https://i.pinimg.com/originals/11/84/55/1184555917431eef065685feabd51792.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100vw 100vh;
+}
+
+.title {
+  text-align: center;
+  width: 100%;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.centerAligned {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+input {
+  padding-left: 1rem;
+  box-sizing: border-box;
+}
+
+button {
+  width: 4rem;
+  height: 2rem;
+}
